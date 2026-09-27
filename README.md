@@ -1,4 +1,4 @@
-# Simple Processor - Intel FPGA
+# Simple Processor - Intel laboratory
 
 ## Overview
 
